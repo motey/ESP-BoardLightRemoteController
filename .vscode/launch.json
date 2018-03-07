@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "gdb",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "name": "PlatformIO Debugger",
+            "target": "e:/Daten/NextCloud/Daten/Hobby/WifiLamp/RControllerV2/.pioenvs/esp32doit-devkit-v1/firmware.elf",
+            "gdbpath": "C:/Users/motey/.platformio/penv/Scripts/piodebuggdb",
+            "autorun": [ "source .pioinit" ],
+            "preLaunchTask": "PlatformIO: Pre-Debug",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

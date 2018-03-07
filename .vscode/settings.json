@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\motey\\.platformio\\penv\\Scripts;C:\\Users\\motey\\.platformio\\penv;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;D:\\Programme\\WinMerge;D:\\Programme\\AndroidADB;D:\\Programme\\PuTTY\\;D:\\Programme\\dotnet\\;D:\\Programme\\Git\\cmd;C:\\Users\\motey\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\motey\\AppData\\Local\\GitHubDesktop\\bin;D:\\Programme\\Microsoft VS Code\\bin;C:\\Users\\motey\\.platformio\\penv\\Scripts;D:\\Programme\\wkhtmltopdf\\bin;;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;D:\\Programme\\WinMerge;D:\\Programme\\AndroidADB;D:\\Programme\\PuTTY\\;D:\\Programme\\dotnet\\;D:\\Programme\\Git\\cmd;C:\\Users\\motey\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\motey\\AppData\\Local\\GitHubDesktop\\bin;D:\\Programme\\Microsoft VS Code\\bin;C:\\Users\\motey\\.platformio\\penv\\Scripts;D:\\Programme\\wkhtmltopdf\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "type_traits": "cpp",
+        "system_error": "cpp",
+        "string": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "array": "cpp",
+        "sstream": "cpp"
+    }
+}
